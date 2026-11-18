@@ -1,6 +1,6 @@
 # Тест по Part 1: LLM как инженерный компонент (теория)
 
-Вопросы по материалам [step1_llm.md](step1_llm.md), [step1_answers_1.md](step1_answers_1.md) и [step1_answers_2.md](step1_answers_2.md).
+Вопросы по материалам [llm.md](llm.md), [answers_1.md](answers_1.md) и [answers_2.md](answers_2.md).
 
 **Как проходить:**
 
