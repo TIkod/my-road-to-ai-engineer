@@ -1,1 +1,9 @@
 Roadmap-Fullstack-to-AI-Engineer.pdf
+
+# Секреты
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc

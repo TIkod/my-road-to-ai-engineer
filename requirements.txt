@@ -1,0 +1,7 @@
+# LLM API (OpenAI-совместимый клиент: Groq, Ollama, OpenAI и др.)
+openai==3.57.0
+python-dotenv==1.2.4
+
+# Примеры из part1
+numpy==2.5.5
+tiktoken==0.14.0
